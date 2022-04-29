@@ -1,1 +1,1 @@
-#Mini projetos que estou fazendo para praticar JavaScript
+# Mini projetos que estou fazendo para praticar JavaScript
